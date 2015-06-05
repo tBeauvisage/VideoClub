@@ -1,0 +1,42 @@
+@CHARSET "utf-8";
+
+#List {
+	display: inline-block;
+	position: relative;
+}
+
+#Evolutivelist {
+	display: inline-block;
+	position: relative;
+}
+
+h1{
+	text-align: center;
+}
+
+
+#jaquette{
+	display : block;
+	margin-bottom: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+#synopsis{
+	width: 600px;
+	display: inline-block;
+	text-align: center;
+	
+}
+#casting{
+	float: left;
+  margin-left: 50px;
+  padding: 20px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  display: inline-block;
+	
+}
