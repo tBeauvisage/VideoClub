@@ -16,7 +16,7 @@
 	}
 	
 	
-	require('view/layout.php');
+	require('view/layoutIndex.php');
 
 
 
