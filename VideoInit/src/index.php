@@ -19,4 +19,4 @@
 	require('view/layoutIndex.php');
 
 
-
+?>
